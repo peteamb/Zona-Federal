@@ -6,10 +6,10 @@
    "Inscrições em breve" e fica desativado.
    ========================================================= */
 const FORMULARIOS = {
-  mineracao:   "",  // Palestra 20/10 08h – Louhanne Milhomem
-  residuos:    "",  // Palestra 20/10 10h30 – Lucas Schmitt
-  mesaRedonda: "",  // Mesa-redonda 20/10 14h – Henrique Garcia e Wallace Lopes
-  drones:      "",  // Minicurso 21/10 08h – Jorge Neto
+  mineracao:   "https://forms.gle/cmkwxe4mJVscoM9k9",  // Palestra 20/10 08h – Louhanne Milhomem
+  residuos:    "https://forms.gle/S5jZpSG6eCAHqRdf8",  // Palestra 20/10 10h30 – Lucas Schmitt
+  mesaRedonda: "https://forms.gle/5xNq86hkiFLVNbD2A",  // Mesa-redonda 20/10 14h – Henrique Garcia e Wallace Lopes
+  drones:      "https://forms.gle/GSQ2uYAE4jpcUUKi9",  // Minicurso 21/10 08h – Jorge Neto
 };
 
 /* Início do evento (para a contagem regressiva) — horário de Palmas (UTC-3) */
